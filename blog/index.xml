@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Fan&#39;s Home</title>
+    <link>https://cpfannccu.github.io/blog/</link>
+    <description>Recent content in Blogs on Fan&#39;s Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 04 Aug 2020 16:12:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://cpfannccu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fan&#39;s First Page</title>
+      <link>https://cpfannccu.github.io/blog/test/</link>
+      <pubDate>Tue, 04 Aug 2020 16:12:00 +0800</pubDate>
+      
+      <guid>https://cpfannccu.github.io/blog/test/</guid>
+      <description>Hello World
+I&amp;rsquo;m Fan.
+一級標題 二級標題 六級標題 I&amp;rsquo;m Fan. I like learning.</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://cpfannccu.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://cpfannccu.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
